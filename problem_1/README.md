@@ -1,7 +1,5 @@
-本项目是神经网络与深度学习期末PJ的第一题。
-报告结果产出，具体步骤如下：
-
-
+期末作业第一题模型在https://pan.baidu.com/s/1Olf5frXmCz6SJ9tDeB6A7A，提取码54sb。
+具体过程如下：
 Step1：训练自监督模型SimSiam并进行Linear Classification Protocol 
 
 ```python
